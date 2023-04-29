@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES| #VAMOS HD" tvg-logo="http://play.primestreams.live:8080/images/f27f75f653ff65fbf32285e02203ea80.png" group-title="SPAIN",ES| #VAMOS HD
+http://myportal.live:8080/live/7857479996516297/7602097663544995/276047.ts
